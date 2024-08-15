@@ -1,16 +1,31 @@
-## Hi there 👋
+# Analytix Audit
 
-<!--
-**AnaIytixAUDlT/AnaIytixAUDlT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytix Audit is a team of experienced blockchain auditors with several years of expertise, having completed over 400 audits and more than 2400 free checks.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Analytix provides following services 🎯 :
+
+• Smart Contract Free Check on Telegram Group
+• Smart Contract Premium Auditing: Professional Audit PDF reports from 24 to 76 pages 
+• Testnet and simulation tests.
+• Smart Contract Development
+• Pinksale SAFU Badge
+• Know-Your-Customer Procedure (Private & Business KYC)
+
+#### What Analytix Audit did in the past?
+
+• 650+ Audits Completed
+• 2800+ Quick Audits Completed
+• Saved over 2M$+ from potetinal rug pulls.
+• Ranked #1 on Pinksale Audit Partners List
+
+#### How to request an audit 🔍 ?
+
+To request an audit or any of the aforementioned services, simply reach out to our dedicated point of contact on Telegram. You can connect with us by messaging the username @FreddyCryptos, and our team will be happy to guide you through the process of scheduling an audit or discussing any questions you may have about our services. We are committed to providing reliable and professional support to help you ensure the security and compliance of your blockchain projects.
+
+#### Official Links 🔗: 
+
+• Website: https://www.analytixaudit.com/      
+• Telegram: https://t.me/AnalytixAudit    
+• Twitter: https://twitter.com/AnalytixA    
+• Disqus: https://disqus.com/by/AnalytixAudit/?l=en_US 
